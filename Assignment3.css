@@ -1,0 +1,35 @@
+body{
+    background-color:blanchedalmond;
+    
+}
+h1 {
+    text-align: center;
+    color :brown;
+}
+div {
+    height : 500px;
+    width : 860px;
+    border : 2px solid black;
+    margin : 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(200px,1fr));
+    row-gap : 20px;
+    padding : 20px;
+
+}
+img {
+    height : 150px;
+    width : 200px;
+    margin-left: 2opx;
+    border : 1px solid black;
+    
+    border-radius: 10px;
+
+}
+.image:hover {
+  box-shadow: 4px 4px 3px orange;
+}
+hr{
+    border : 1px solid white;
+    margin-bottom: 50px;;
+}

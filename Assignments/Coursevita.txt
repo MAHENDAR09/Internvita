@@ -1,0 +1,19 @@
+Description :-> If an investor is willing to grant $1 million, what product or problem-solving endeavor would you pursue, and how would you leverage technology to address it?
+
+PROBLEM IDENTIFICATION :->
+     Educational inequality is a widespread problem, especially for students in underserved and rural areas who often don't have access to good educational resources and personalized teaching.Many students face challenges like limited interaction with teachers, lack of personalized help, and not enough access to the necessary technology.
+       
+
+ TECHNOLOGIES USED:->
+ -> Artificial Intelligence
+ -> VR (Virtual Reality) 
+ -> Cloud Computing
+
+  SOLUTIONS:->
+     
+   -> Identifying their Strengths and weakness of a Student
+   -> Immediate support via chatbots
+   -> VR related classrooms and Labs
+   -> Easy access of Lectures to students
+   -> Making into groups and doing the projects
+   -> parent teacher Engagement
