@@ -1,0 +1,54 @@
+.app {
+    background-color: aquamarine;
+    width : 90%;
+    margin : 100px auto 0;
+    padding : 30px;
+    border-radius: 10px;
+}
+.app h1 {
+    font-size: 25px;
+    font-weight: 600;
+    border-bottom: 2px solid rgb(0, 0, 0);
+    padding-bottom: 30px;
+}
+.quizz{
+    padding : 20px 0;
+}
+.quizz h2 {
+    font-size : 18px;
+    font-weight: 600;
+    color :black;
+}
+.btn {
+    background-color: white;
+    color : black;
+    width : 100%;
+    padding : 10px;
+    margin : 10px;
+    border-radius : 30px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+.btn:hover:not([disabled]) {
+    background-color: blue;
+}
+.btn:disabled{
+    cursor :no-drop;
+}
+#next{
+    background-color:rgb(46, 46, 99);
+    color :beige;
+    width : 150px;
+    border : 0;
+    padding : 10px;
+    margin : 20px auto;
+    border-radius: 4px;
+    cursor: pointer;
+    display : none;
+}
+.correct {
+    background-color: green;
+}
+.incorrect {
+    background-color: red;
+}
